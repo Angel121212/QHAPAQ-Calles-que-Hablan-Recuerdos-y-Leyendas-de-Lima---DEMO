@@ -78,8 +78,10 @@ El objetivo del juego es explorar diferentes escenarios de la ciudad, interactua
 - Permite evaluar el rendimiento del usuario  
 
 ---
+## Requisitos ### JavaFX (OpenJFX) - OBLIGATORIO 
 
-## Requisitos
+Este proyecto requiere **JavaFX (OpenJFX)** como librería externa obligatoria para el desarrollo de la interfaz gráfica, eventos y reproducción multimedia. 
+JavaFX no viene incluido en el JDK, por lo que debe instalarse manualmente. 
 
 ### Java Development Kit (JDK)
 - JDK 17 o superior (recomendado JDK 21)
