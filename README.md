@@ -6,7 +6,7 @@ QHAPAQ es un RPG educativo y narrativo desarrollado en JavaFX, que permite explo
 
 ## Vista general del juego
 
-![Portada del juego](images/portada.png)
+![Portada del juego](readme_imgs/loby_game.png)
 
 El juego combina narrativa, exploración y elementos visuales para recrear la historia urbana de Lima.
 
