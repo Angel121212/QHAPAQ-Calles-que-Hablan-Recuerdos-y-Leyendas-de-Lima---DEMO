@@ -7,7 +7,7 @@ El jugador recorre escenarios inspirados en calles reales, descubriendo historia
 ---
 ## Video introductorio
 
-**[![Video introductorio](https://img.youtube.com/vi/ID/0.jpg)](https://www.youtube.com/watch?v=ID)**
+[![Ver video introductorio](https://img.youtube.com/vi/csayM97q4m8/0.jpg)](https://youtu.be/csayM97q4m8)
 
 ---
 ## Vista general del juego
