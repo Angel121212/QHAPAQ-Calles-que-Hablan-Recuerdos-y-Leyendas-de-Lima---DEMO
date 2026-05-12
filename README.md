@@ -7,12 +7,11 @@ El jugador recorre escenarios inspirados en calles reales, descubriendo historia
 ---
 ## Video introductorio
 
-[![Ver video introductorio](https://img.youtube.com/vi/csayM97q4m8/0.jpg)](https://youtu.be/csayM97q4m8)
-
----
-## Vista general del juego
-
-![Portada del juego](readme_imgs/loby_game.png)
+<p align="center">
+  <a href="https://youtu.be/csayM97q4m8">
+    <img src="https://img.youtube.com/vi/csayM97q4m8/0.jpg" alt="Ver video introductorio">
+  </a>
+</p>
 
 El juego combina narrativa, exploración y elementos visuales para recrear la historia urbana de Lima.
 
