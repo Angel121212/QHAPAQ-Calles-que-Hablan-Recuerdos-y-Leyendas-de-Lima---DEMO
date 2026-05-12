@@ -45,11 +45,11 @@ public class Cuestionario extends JFrame {
     private int puntaje = 0;
 
     public Cuestionario(){
-        setTitle("Formulario Interactiv - Historia de la FAP");
+        setTitle("Formulario Interactivo - Historia de la FAP");
     setSize(1200, 800);
     setDefaultCloseOperation(EXIT_ON_CLOSE);
     setLocationRelativeTo(null);
-    JPanel panelPrincipal = new PanelConFondo("/cuestionario/Peruanos.png");
+    JPanel panelPrincipal = new PanelConFondo("/cuestionario/Peruanos.jpg");
     panelPrincipal.setLayout(new BorderLayout(10, 10));
     setContentPane(panelPrincipal);
     
@@ -75,8 +75,8 @@ public class Cuestionario extends JFrame {
     for (int i = 0; i < opciones.length; i++) {
     opciones[i] = new JRadioButton();
     opciones[i].setFont(new Font("SansSerif", Font.PLAIN, 40));
-    opciones[i].setOpaque(false); // ✅ fondo transparente
-    opciones[i].setForeground(Color.BLACK); // ✅ texto visible si el fondo es oscuro
+    opciones[i].setOpaque(false); 
+    opciones[i].setForeground(Color.BLACK); 
     opciones[i].addActionListener(e -> btnResponder.setEnabled(true));
     grupoOpciones.add(opciones[i]);
     panelOpciones.add(opciones[i]);
@@ -87,7 +87,7 @@ public class Cuestionario extends JFrame {
     // Panel inferior
     JPanel panelSur = new JPanel(new GridLayout(2, 1, 5, 5));
     btnResponder = new JButton("Siguiente");
-    btnResponder.setFont(new Font("SansSerif", Font.BOLD, 20)); // 🔸 Tamaño grande y negrita
+    btnResponder.setFont(new Font("SansSerif", Font.BOLD, 20)); // Tamaño grande y negrita
     btnResponder.setEnabled(false);
     lblResultado = new JLabel(" ", SwingConstants.CENTER);
     lblResultado.setFont(new Font("SansSerif", Font.ITALIC, 14));
@@ -188,7 +188,7 @@ public class Cuestionario extends JFrame {
     grupoOpciones.clearSelection();
     lblResultado.setText(" ");
     
-    // 🔄 Reiniciar botón correctamente
+    // Reiniciar botón correctamente
     btnResponder.setText("Responder");
     btnResponder.setEnabled(false); // deshabilitado hasta que selecciones
 }
