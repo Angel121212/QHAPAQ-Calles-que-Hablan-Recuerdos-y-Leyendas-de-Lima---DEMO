@@ -78,6 +78,15 @@ El objetivo del juego es explorar diferentes escenarios de la ciudad, interactua
 - Permite evaluar el rendimiento del usuario  
 
 ---
+
+## Instrucciones de Despliegue
+
+1. **Clonación del Repositorio:**
+   ```bash
+   git clone [https://github.com/Angel121212/QHAPAQ-Calles-que-Hablan-Recuerdos-y-Leyendas-de-Lima---DEMO.git](https://github.com/Angel121212/QHAPAQ-Calles-que-Hablan-Recuerdos-y-Leyendas-de-Lima---DEMO.git)
+
+---
+
 ## Requisitos 
 ### JavaFX (OpenJFX) - OBLIGATORIO 
 
@@ -90,3 +99,5 @@ JavaFX no viene incluido en el JDK, por lo que debe instalarse manualmente.
 
 ```bash
 java -version
+
+
