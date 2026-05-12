@@ -57,7 +57,7 @@ El objetivo del juego es explorar diferentes escenarios de la ciudad, interactua
 
 ## Cuestionario
 
-![Cuestionario](readme_imgs/question_Sect.png)
+![Cuestionario](readme_imgs/question_sect.png)
 
 - Preguntas de opción múltiple  
 - Sistema de puntuación automático  
