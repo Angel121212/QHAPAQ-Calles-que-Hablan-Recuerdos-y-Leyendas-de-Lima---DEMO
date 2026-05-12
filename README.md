@@ -83,7 +83,7 @@ El objetivo del juego es explorar diferentes escenarios de la ciudad, interactua
 
 1. **Clonación del Repositorio:**
    ```bash
-   git clone [https://github.com/Angel121212/QHAPAQ-Calles-que-Hablan-Recuerdos-y-Leyendas-de-Lima---DEMO.git](https://github.com/Angel121212/QHAPAQ-Calles-que-Hablan-Recuerdos-y-Leyendas-de-Lima---DEMO.git)
+   git clone https://github.com/Angel121212/QHAPAQ-Calles-que-Hablan-Recuerdos-y-Leyendas-de-Lima---DEMO.git
 
 ---
 
