@@ -19,7 +19,7 @@ El juego combina narrativa, exploración y elementos visuales para recrear la hi
 
 ## Capturas del juego
 
-### Pantalla principal
+### Pantalla de Opciones 
 ![Menú principal](readme_imgs/menu_game.png)
 
 ### Mapa de exploración
