@@ -1,11 +1,15 @@
 # QHAPAQ: Calles que Hablan - Recuerdos y Leyendas de Lima (DEMO)
 
-QHAPAQ es un RPG educativo y narrativo desarrollado en JavaFX, que permite explorar la ciudad de Lima a través de una experiencia interactiva en pixel art.
+QHAPAQ es un RPG educativo y narrativo desarrollado en Java, que permite explorar la ciudad de Lima a través de una experiencia interactiva en pixel art.
 
 El jugador recorre escenarios inspirados en calles reales, descubriendo historias, leyendas y eventos culturales mediante exploración, interacción con NPCs y un sistema de cuestionarios dinámicos.
 
 ---
+## Video introductorio
 
+**[![Video introductorio](https://img.youtube.com/vi/ID/0.jpg)](https://www.youtube.com/watch?v=ID)**
+
+---
 ## Vista general del juego
 
 ![Portada del juego](readme_imgs/loby_game.png)
